@@ -1,0 +1,22 @@
+{
+  "name": "userinfostoringmicroservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstTimeSaver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WyattHolliday/UserInfoStoringMicroservice.git"
+  },
+  "author": "Wyatt Holliday",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WyattHolliday/UserInfoStoringMicroservice/issues"
+  },
+  "homepage": "https://github.com/WyattHolliday/UserInfoStoringMicroservice#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
